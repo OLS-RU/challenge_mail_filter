@@ -46,69 +46,65 @@
 26 | Dmitry Egorov | 14,795
 27 | Serj Karasev | 16,387
 28 | Anton Podkuyko | 16,569
-29 | Vitalii Petrychuk | 18,132
-30 | Denis Protasov | 18,174
-31 | Sergey Lichack | 21,064
-32 | Evgeny Lukianchikov | 21,544
-33 | Andrey Grankin | 21,77
-34 | Vladimir Privalov | 25,328
-35 | Alexander Rusakov | 25,656
-36 | KingOfNothing | 27,469
-37 | Arkadi Klepatch | 30,107
-38 | Slava Shklyaev | 30,922
-39 | Maxim Khoruzhko | 31,651
-40 | Katerina Pavlenko | 32,098
-41 | Alexey Kolpakov | 33,155
-42 | Max Brodin | 35,359
-43 | Black Knight | 35,839
-44 | Pavel Orlov | 36,903
-45 | Ilya Makarov | 37,038
-46 | Sergey Ivanov | 38,432
-47 | Alexander Savchuk | 39,191
-48 | Aydar Mirzagitov | 39,305
-49 | Petr Shalkov | 39,334
-50 | Sergey Golub | 40,607
-51 | Ionicman | 41,158
-52 | Maxim Drozdov | 41,539
-53 | Dmitry Podgorniy | 42,896
-54 | Alexey Chemichev | 43,585
-55 | Pavel Gruba | 44,272
-56 | Nickolay Savchenko | 44,545
-57 | Nadav Ivgi | 45,478
-58 | Kobi | 45,606
-59 | Andrey Kostakov | 47,085
-60 | Vitaly Dyatlov | 48,48
-61 | Ilya Mochalov | 48,664
-62 | Alina Lozhkina | 48,734
-63 | Vitali Falileev | 48,768
-64 | Aleksei Murashin | 49,053
-65 | Vyacheslav Ryabinin | 49,706
-66 | Yuriy Khabarov | 50,095
-67 | Alexandr | 50,115
-68 | Dmitry Rybin | 50,126
-69 | Stas Vasilyev | 51,155
-70 | Vladimir Osipov | 51,359
-71 | Evgenii Kazmiruk | 51,734
-72 | Ruslan Koptev | 52,046
-73 | Vladimir Barbarosh | 57,601
-74 | Danila Sukhanov | 58,294
-75 | Georgy Chebanov | 59,798
-76 | Jarek Plocki | 61,37
-77 | Sergey Savelyev | 63,588
-78 | Igor Potapov | 68,84
-79 | Pavel Koltyshev | 75,76
-80 | Vitali Koshtoev | 76,863
-81 | Kirill Bykov | 80,895
-82 | berrunder | 87,13
-83 | Zibx | 88,703
-84 | Igor Vladimirovich | 106,136
-85 | Aleksey Sergey | 114,391
-86 | Vyacheslav Bazhinov | 126,427
-87 | Alexey Pushnikov | 132,339
-88 | Alex Ku | 151,134
-89 | Nikolay Shevlyakov | 162,493
-90 | Dan Revah | 175,295
-91 | nerv | 216,286
-92 | Ruslan Minukov | 220,171
-93 | Ilya Chervonov | 485,122
-94 | Nikita Isaev | 611,643
+29 | Denis Protasov | 18,174
+30 | Sergey Lichack | 21,064
+31 | Evgeny Lukianchikov | 21,544
+32 | Vladimir Privalov | 25,328
+33 | Alexander Rusakov | 25,656
+34 | KingOfNothing | 27,469
+35 | Arkadi Klepatch | 30,107
+36 | Slava Shklyaev | 30,922
+37 | Maxim Khoruzhko | 31,651
+38 | Katerina Pavlenko | 32,098
+39 | Alexey Kolpakov | 33,155
+40 | Max Brodin | 35,359
+41 | Pavel Orlov | 36,903
+42 | Ilya Makarov | 37,038
+43 | Sergey Ivanov | 38,432
+44 | Alexander Savchuk | 39,191
+45 | Petr Shalkov | 39,334
+46 | Sergey Golub | 40,607
+47 | Ionicman | 41,158
+48 | Maxim Drozdov | 41,539
+49 | Dmitry Podgorniy | 42,896
+50 | Alexey Chemichev | 43,585
+51 | Pavel Gruba | 44,272
+52 | Nickolay Savchenko | 44,545
+53 | Nadav Ivgi | 45,478
+54 | Kobi | 45,606
+55 | Andrey Kostakov | 47,085
+56 | Vitaly Dyatlov | 48,48
+57 | Ilya Mochalov | 48,664
+58 | Alina Lozhkina | 48,734
+59 | Vitali Falileev | 48,768
+60 | Aleksei Murashin | 49,053
+61 | Vyacheslav Ryabinin | 49,706
+62 | Yuriy Khabarov | 50,095
+63 | Alexandr | 50,115
+64 | Dmitry Rybin | 50,126
+65 | Stas Vasilyev | 51,155
+66 | Vladimir Osipov | 51,359
+67 | Evgenii Kazmiruk | 51,734
+68 | Ruslan Koptev | 52,046
+69 | Vladimir Barbarosh | 57,601
+70 | Danila Sukhanov | 58,294
+71 | Georgy Chebanov | 59,798
+72 | Jarek Plocki | 61,37
+73 | Sergey Savelyev | 63,588
+74 | Igor Potapov | 68,84
+75 | Pavel Koltyshev | 75,76
+76 | Vitali Koshtoev | 76,863
+77 | Kirill Bykov | 80,895
+78 | berrunder | 87,13
+79 | Zibx | 88,703
+80 | Igor Vladimirovich | 106,136
+81 | Aleksey Sergey | 114,391
+82 | Vyacheslav Bazhinov | 126,427
+83 | Alexey Pushnikov | 132,339
+84 | Alex Ku | 151,134
+85 | Nikolay Shevlyakov | 162,493
+86 | Dan Revah | 175,295
+87 | nerv | 216,286
+88 | Ruslan Minukov | 220,171
+89 | Ilya Chervonov | 485,122
+90 | Nikita Isaev | 611,643
