@@ -51,7 +51,9 @@
 31 | Evgeny Lukianchikov | 21,544
 32 | Vladimir Privalov | 25,328
 33 | Alexander Rusakov | 25,656
+| Vladimir Menshakov (вне конк.) | 27,167
 34 | KingOfNothing | 27,469
+| Maksim_Razumenko (вне конк.) | 30,014
 35 | Arkadi Klepatch | 30,107
 36 | Slava Shklyaev | 30,922
 37 | Maxim Khoruzhko | 31,651
